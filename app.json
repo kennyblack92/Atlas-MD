@@ -1,5 +1,5 @@
 {
-  "name": "Atlas-MD",
+  "name": "EXCEL-MD",
   "description": "The future of WhatsApp bots now with plugin support.",
   "keywords": [
     "bot",
@@ -14,7 +14,7 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/FantoX001/Atlas-MD#readme",
+  "website": "https://github.com/FantoX001/kennyblack92-MD#readme",
   "repository": "https://github.com/FantoX001/Atlas-MD.git",
   "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
   "success_url": "/",
