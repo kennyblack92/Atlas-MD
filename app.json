@@ -1,6 +1,6 @@
 {
-  "name": "Atlas-MD",
-  "description": "The future of WhatsApp bots now with plugin support.",
+  "name": "EXCEL-BOT",
+  "description": "WhatsApp bots with plugin support.",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,9 +14,9 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/FantoX001/Atlas-MD#readme",
-  "repository": "https://github.com/FantoX001/Atlas-MD.git",
-  "logo": "https://graph.org/file/02abf0fd8fc2a13cc67a1.jpg",
+  "website": "https://github.com/kennyblack92/EXCEL-BOT#readme",
+  "repository": "https://github.com/kennyblack92/EXCEL-BOT.git",
+  "logo": "https://i.imgur.com/0p4N98Q.jpeg",
   "success_url": "/",
   "env": {
     "PREFIX": {
@@ -39,7 +39,7 @@
       "required": false
     },
     "MONGODB": {
-      "description": "Put Your MongoDB URL. You can create MongoDB Atlas URL for free."
+      "description": "Put Your MongoDB URL. You can create MongoDB EXCEL URL for free."
     },
     "OPENAI_API": {
       "description": "Put your OpenAI API key here if you want to use ChatGPT and DALL-E.",
